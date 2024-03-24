@@ -1,15 +1,5 @@
 {
-  "name": "all-45-questions-with-solutions",
-  "version": "1.0.0",
-  "description": "In this repo I am doing all 45 questions one by one.",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "description": "",
   "devDependencies": {
     "@types/node": "^20.11.30"
   }
